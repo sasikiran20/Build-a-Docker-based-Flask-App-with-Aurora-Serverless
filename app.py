@@ -8,7 +8,7 @@ app = Flask(__name__)
 my_config = Config(
     region_name = 'us-east-1'
 )
-rds_data = boto3.client('rds-data', config=my_config, aws_access_key_id='AKIARJDIMSBDK5JQRMWB', aws_secret_access_key='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')
+rds_data = boto3.client('rds-data', config=my_config, aws_access_key_id='AKIARJKDIMSBDK5J6QRMWWB', aws_secret_access_key='rw3rlhZ5VMXKkgGy5q4KHWnP1ofqju3E91k+qaPhilp')
 
 
 aurora_db_name = 'mydatabase' 
