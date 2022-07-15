@@ -9,5 +9,6 @@
 - pgAdmin
 
 ## Architectural Diagram:
-!(https://user-images.githubusercontent.com/89773843/179213902-9a3d1bcc-341c-493c-bb56-088d86a2f53b.png)
+![Architectural](https://user-images.githubusercontent.com/89773843/179214055-4a650f4c-af8f-419e-b140-9b173da719ca.png)
+
 
